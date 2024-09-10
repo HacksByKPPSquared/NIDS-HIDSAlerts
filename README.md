@@ -30,7 +30,6 @@ This lab demonstrates the use of various security tools for intrusion detection,
 <h2>Environments Used </h2>
 
 - <b>Kali Linux </b>
-<h1>Lab Walkthrough</h1> 
 
 
 
