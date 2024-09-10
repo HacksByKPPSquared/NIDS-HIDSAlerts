@@ -31,7 +31,7 @@ This lab demonstrates the use of various security tools for intrusion detection,
 
 - <b>Kali Linux </b>
 
-👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/NIDS-HIDSAlerts/blob/main/main.md)
+<b>👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/NIDS-HIDSAlerts/blob/main/main.md) </b>
 
 
 
