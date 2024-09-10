@@ -1,13 +1,13 @@
 <h1>Identifying & Analyzing Network/Host Intrusion Detection System
 (NIDS/HIDS) Alerts</h1>
 
-1\. Use Zenmap to Scan Network Targets
+<h2>1. Use Zenmap to Scan Network Targets</h2>
 
 In this task, you will use the integrated zenmap tool in Kali to create
 traffic data that can be later analyzed.
 
-1\. Launch the SecOnion virtual machine.
-
+>1\. Launch the SecOnion virtual machine.
+>
 > 2\. On the login screen, type soadmin as the username and mypassword
 > as the password. Click Log In.
 >
@@ -19,14 +19,14 @@ traffic data that can be later analyzed.
 >
 > 4\. Type the command below, followed by pressing the Enter key. If
 > prompted, enter mypassword for root privileges.
-
-soadmin@Security-Onion:~\$ sudo service nsm status
-
-5\. Launch the Kali virtual machine to access the graphical login
+>
+>soadmin@Security-Onion:~\$ sudo service nsm status
+>
+>5\. Launch the Kali virtual machine to access the graphical login
 screen.
-
-6\. Log in as root with toor as the password. Open the Kali PC Viewer.
-
+>
+> 6\. Log in as root with toor as the password. Open the Kali PC Viewer.
+>
 > 7\. Click on the Applications Menu option located on the top menu pane
 > and navigate to Kali Linux \> Information Gathering \> Network
 > Scanners \> zenmap.
@@ -44,12 +44,12 @@ screen.
 > which common ports are opened on which
 > system.<img src="./media/image3.png" style="width:9.5522in;height:0.9901in" />
 >
-> 2\. Network Security Monitoring with Sguil
->
+<h2>2. Network Security Monitoring with Sguil</h2>
+
 > 2.1. Running Sguil
->
+
 > 1\. Change focus to the SecOnion system.
->
+
 > 2\. Double-click the sguil desktop icon to launch the application.
 >
 > <img src="./media/image4.png" style="width:1.09722in;height:0.95833in"
@@ -97,7 +97,7 @@ screen.
 >
 > 11\. Once the scan finishes, change focus back to the SecOnion system.
 >
-> 2.2. Analyzing Network Events using Sguil
+> <h2> 2.2. Analyzing Network Events using Sguil</h2>
 >
 > 1\. While viewing the Sguil monitoring application, organize the
 > events by date. Click on the Date/Time column header, making sure that
@@ -154,11 +154,11 @@ screen.
 > 11\. Close the Sguil application.
 >
 > 12\. Leave the SecOnion viewer open to continue with the next task.
->
-> 3\. Network Security Monitoring with Squert
->
-> 3.1. Analyzing Security Monitoring using Squert
->
+
+<h2> 3. Network Security Monitoring with Squert</h2>
+
+> 3.1\. Analyzing Security Monitoring using Squert
+
 > 1\. While on the SecOnion system, double-click on the Squert desktop
 > icon.
 >
