@@ -1,5 +1,5 @@
-Lab 12 Identifying & Analyzing Network/Host Intrusion Detection System
-(NIDS/HIDS) Alerts
+<h1>Identifying & Analyzing Network/Host Intrusion Detection System
+(NIDS/HIDS) Alerts</h1>
 
 1\. Use Zenmap to Scan Network Targets
 
