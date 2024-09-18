@@ -41,7 +41,8 @@ In short, this lab was all about using powerful security tools to monitor, detec
 In conclusion, this lab taught us how to master the fine art of **network forensics**. Armed with the best tools in the biz, we analyzed threats, tracked suspicious activity, and proved that when it comes to network security, nothing gets past us! 🕵️‍♀️🔐
 
 
-<b>👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/NIDS-HIDSAlerts/blob/main/main.md) </b>
+# 👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/NIDS-HIDSAlerts/blob/main/main.md)
+
 
 
 
